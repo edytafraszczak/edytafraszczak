@@ -23,4 +23,4 @@ I create web apps mostly utilizing Django web framewrok.
 ## Connect with me:
 
 
-<img align="left"  alt="email" width="22px" src="https://simpleicons.org/icons/gmail.svg" /> edyta.fraszczak@gmail.com
+<img align="left"  alt="email" width="22px" src="https://simpleicons.org/icons/gmail.svg" /> edyta.fraszczak97@gmail.com
