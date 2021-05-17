@@ -1,7 +1,7 @@
 # Hello my name is <strong>Edyta Frąszczak</strong> 👋
 
-## I'm a Junior Django developer !!!
-I create web apps mostly utilizing Django web framewrok.
+## I'm a Full-Stack Django developer !!!
+I create web apps utilizing Django web framewrok.
 
 ## Languages and Tools:
 
